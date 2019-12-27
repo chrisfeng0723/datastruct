@@ -11,7 +11,7 @@ import (
 	"testing"
 )
 
-func TestReverse(t *testing.T) {
+func TestTwosum(t *testing.T) {
 
 	for _, unit := range []struct {
 		x      []int
